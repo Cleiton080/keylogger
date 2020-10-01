@@ -15,6 +15,6 @@
 
 When you run the python script or the .exe and write something, you'll notice that will be created a text file named keylogger.txt on root folder. Inside this file, you'll see all the keys pressed by the user.
 
-## Warning
+## Disclaimer
 
-This code hasn't any intention to be used of wrong way, I just thought it might be good to practice my programming skills and share on my public repository on github.
+This code has no intention to be used in a wrong way, I just thought it might be good to practice my programming skills and share it in my public repository on github.
