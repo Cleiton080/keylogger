@@ -18,3 +18,5 @@ When you run the python script or the .exe and write something, you'll notice th
 ## Disclaimer
 
 This code has no intention to be used in a wrong way, I just thought it might be good to practice my programming skills and share it in my public repository on github.
+
+
